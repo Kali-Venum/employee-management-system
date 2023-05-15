@@ -1,0 +1,11 @@
+{
+  "USER_REGISTRATION_SUCCESSFUL":"User registration successful.",
+  "USER_ALREADY_EXISTS":"User already exists.",
+  "USER_REGISTRATION_FAILED":"User registration failed.",
+  "USER_LOGIN_SUCESSFUL":"User login successful.",
+  "EMAIL_NOT_REGISTERED":"User email not registered.",
+  "INVALID_EMAIL_AND_PASSWORD":"Invalid email or password.",
+  "DEPARTMENT_SUCESSFULLY_CREATED":"Department successfully created.",
+  "SOMETHING_WENT_WRONG":"Something went wrong.",
+  "UNAUTHORIZED_USER":"Unauthorized user!!"
+}
